@@ -1,0 +1,29 @@
+server:
+  port: 8100
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
+
+spring:
+  application:
+    name: cambio-service
+  datasource:
+    url: jdbc:postgresql://localhost/cambio_db_b
+    username: postgres  # Ajuste o usuário do banco se necessário
+    password: postgres  # Ajuste a senha do banco se necessário
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        format-sql: true
+    show-sql: true
+  flyway:
+    locations:
+      - classpath:/db_migration

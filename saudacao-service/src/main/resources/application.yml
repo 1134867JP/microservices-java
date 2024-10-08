@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: saudacao-service
+  profiles:
+    active:
+    - es
+  config:
+    import:
+    - optional:configserver:http://localhost:8888
+server:
+  port: 8081
+saudacao-service:
+  saudacao: Hello
+  nome-padrao: World
