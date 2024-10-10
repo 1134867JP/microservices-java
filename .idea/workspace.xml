@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43d9f3e4-28dd-4369-b995-44145275b7c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/Apresentacao_Aula01_TurmaB.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/SomaComFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/SomaComReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/src/main/java/com/example/demo/controllers/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/src/main/java/com/example/demo/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/src/main/java/com/example/demo/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/src/main/java/com/example/demo/services/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula01/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/Apresentação_Aula02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/EntregavelAula02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/ImpureFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/LambdaFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/LambdaFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/LambdaFunctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/PureFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/ValidaParComFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02/ValidaParComFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/Apresentação_Aula03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/ChainingMethodStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/ChainingMethodWithPersons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/ListaNomes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/PersonWithChainingMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/Trabalho em Grupo de Pesquisa.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/Trabalho em Grupo de Pesquisa_NomesIntegrantes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/entregavel/CalculadoraMedidas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/entregavel/OrdemCompra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/entregavel/Pagamentos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/entregavel/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula03/entregavel/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04/Apresentação_Aula04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula04/Entregáveis/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/Apresentação_Aula05.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/Configuração em Microservices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/ISP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/ISPCorrigido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/LSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/LSPCorrigido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/Lista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula05/Microservices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula07/Flyway.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula07/Spring Boot Actuator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE_ParadigmaLingProgr_202402_TurmaB.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produto-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/produto-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mwjGHXATCqpF2GkKwX5Be3Pk84" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ConfigServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ProdutoServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joper/Documents/Aulas/Luciano Back-end/JavaAvancado/ParadLingProg_202402_TurmaB/microservices-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="config-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.paradigma.config_service.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="config-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.paradigma.config_service.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="produto-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.paradigma.produto_service.ProdutoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="produto-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.paradigma.produto_service.ProdutoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaudacaoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="saudacao-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.paradigma.saudacao_service.SaudacaoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaudacaoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="saudacao-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.paradigma.saudacao_service.SaudacaoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43d9f3e4-28dd-4369-b995-44145275b7c2" name="Changes" comment="" />
+      <created>1727994436345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727994436345</updated>
+      <workItem from="1727994437386" duration="4318000" />
+      <workItem from="1728069059746" duration="164000" />
+      <workItem from="1728350225885" duration="905000" />
+      <workItem from="1728351145599" duration="50000" />
+      <workItem from="1728351202412" duration="286000" />
+      <workItem from="1728351795146" duration="1420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
